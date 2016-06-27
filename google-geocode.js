@@ -16,7 +16,6 @@ geocode = {
 	getSecureLocation: function (address, callback) {
 		var url = 'https://maps.googleapis.com/maps/api/geocode/json?address='+address;
 		this.getActualLocation(url, callback);
-    https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyB9vLnptqPQZq5cWiqmwyA0gp97n81oYGU
 	},
 	getLocation: function(address, callback){
 		var url = 'http://maps.googleapis.com/maps/api/geocode/json?address='+address;
