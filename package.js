@@ -2,7 +2,7 @@ Package.describe({
   name: 'baberuth22:google-geocode',
   version: '0.0.7',
   summary: 'Calls Googles geocode API converting GPS lat and lng to physical address',
-  git: 'https://github.com/JayMc/meteor-google-geocode',
+  git: 'https://github.com/baberuth22/google-geocode',
   documentation: 'README.md'
 });
 
