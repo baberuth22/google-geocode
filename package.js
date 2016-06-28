@@ -1,7 +1,7 @@
 Package.describe({
   name: 'baberuth22:google-geocode',
-  version: '0.0.7',
-  summary: 'Calls Googles geocode API converting GPS lat and lng to physical address',
+  version: '0.0.9',
+  summary: 'Calls Google geocode API converting address into latitude, longitude, or address object.',
   git: 'https://github.com/baberuth22/google-geocode',
   documentation: 'README.md'
 });
